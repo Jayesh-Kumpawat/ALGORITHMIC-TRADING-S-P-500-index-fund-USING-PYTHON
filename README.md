@@ -1,7 +1,7 @@
 # ALGORITHMIC TRADING (S&P 500 index fund) USING PYTHON
 
 ### Abstract
-This document serves as a basic read-me file for the coding involved in the final project. Evidently, Jupyter Notebooks have been used as the primary coding environment and the entire project has been completed using Python programming language. Also as a point of disclaimer, PEP 8 coding style con- ventions were used. A point which must be noted is that, most of the major directives are embedded as markdowns and comments in the jupyter notebook itself.
+This document serves as a basic read-me file for the coding involved in the final project. Evidently, Jupyter Notebooks have been used as the primary coding environment and the entire project has been completed using Python programming language. Also as a point of disclaimer, PEP 8 coding style conventions were used. A point which must be noted is that, most of the major directives are embedded as markdowns and comments in the jupyter notebook itself.
 
 ### Requirements
 As a matter of fact, the following are the minimum pre-requisites that one might need in order to completely run the coding environment locally:
